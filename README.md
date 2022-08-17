@@ -1,2 +1,1 @@
-# GTchal19
-Progresive Web application
+# Text Editor Starter Code
