@@ -44,7 +44,7 @@ const store = tx.objectStore('jate');
 const request = store.getALL();
    // Get confirmation of the request.
 const result = await request;
-console.log ('🚀 - data get got get');
+console.log ('🚀 -  dataGet.value', result);
 return result;
 }};
 initdb()
